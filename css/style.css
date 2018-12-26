@@ -16,19 +16,19 @@
 
 @media (min-width: 768px) {
  .affix {
-    width: 720px;
+    width: 360px;
   }
 }
 
 @media (min-width: 992px) {
  .affix {
-    width: 940px;
+    width: 470px;
   }
 }
 
 @media (min-width: 1200px) {
  .affix {
-    width: 1140px;
+    width: 570px;
   }
 }
 
